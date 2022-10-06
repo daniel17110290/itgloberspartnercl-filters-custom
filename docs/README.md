@@ -16,7 +16,7 @@ Under the app's name, you should explain the topic, giving a **brief description
 
 Next, **add media** (either an image of a GIF) with the rendered components, so that users can better understand how the app works in practice. 
 
-![Media Placeholder](https://ibb.co/QDN6V8M)
+![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/Reloj-Digital-Para-Hombre.png)
 
 ## Configuration 
 
