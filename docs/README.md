@@ -12,7 +12,7 @@ Under the app's name, you should explain the topic, giving a **brief description
 
 Next, **add media** (either an image of a GIF) with the rendered components, so that users can better understand how the app works in practice. 
 
-![Media Placeholder](file:///C:/Users/PERSONAL/Documents/diesel_store/diesel-store/assets/images/menu-sale.png)
+![Media Placeholder](https://ibb.co/QDN6V8M)
 
 ## Configuration 
 
