@@ -30,7 +30,7 @@ una vez creado el repositorio lo clonarlo y ya estaria listo para empezar a trab
 teniendo el repositorio clonado se debe configurar el manifest.json que llega por defecto en el template
 
 ejemplo:
-
+```json
 {
   "vendor": "itgloberspartnercl",
   "name": "filters-custom",
@@ -38,33 +38,33 @@ ejemplo:
   "title": "Cards de departamento y categoria",
   "description": "Se vera unas cards con los departamentos y cuando click se mostrara las cards con las categorias",
 }
-
+ ```
 Ademas configurar los bulders, agregando store:
-
+```json
 "builders": {
     "react": "3.x",
     "messages": "1.x",
     "docs": "0.x",
     "store": "0.x"
   },
-
+ ```
 Agregar la dependencias necesarias para que la app tenga los componentes que se usaran para su funcionamiento.
-
+```json
 "dependencies": {
     "vtex.css-handles": "0.x",
     "vtex.store-graphql": "2.x",
     "vtex.store-components": "3.x"
   },
-  
+  ``` 
 ### paso 3 - Editar el Package.json
 
 Se modificara el archivo de {package.json} global
-
+```json
 {
   "version": "0.0.1",
   "name": "filters-custom",
 }
-
+ ``` 
 De la misma manera se modifica el archivo {Package.json} que se encuentra en la carpeta react
 
 ### Paso - 4 Instalar dependencias en React
@@ -74,7 +74,7 @@ Teniendo configurado los pasos anteriores, se procede a instalar las depencias d
 ### Paso - 5 Creacion de la carpeta {store}
 
 Se procede a crear una carpeta {store} que se encontrara independiente dentro de la carpeta general del proyecto, dentro de esta carpeta se creara el archivo {manifest.json} donde sera configurado y este permitira ser usado para renderizar el componente en la tienda vtex io
-
+```json
 {
   "filters-departmen": {
     "component": "FilterCards",
@@ -87,7 +87,7 @@ Se procede a crear una carpeta {store} que se encontrara independiente dentro de
     "render": "client"
   }
 }
-
+ ``` 
 ### Paso - 6 Creacion del componente
 
 Despues de las configuraciones generales se procede a la creacion del componente desde {react}, para ver en navegador los cambios y avances del componente se debera linkear la pagina con el comando {vtex link}
