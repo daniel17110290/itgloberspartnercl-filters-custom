@@ -24,7 +24,7 @@ const filterCategories = ({ departments }: Props) => {
     const departmentOptions: any = departments?.map((department: Category) => {
         console.log("estos son los departamentos:", department)
         return (
-            <a >
+            <a className={styles.ref}>
                 <img className={styles.image} src="https://image.shutterstock.com/image-vector/red-color-inserted-label-banner-260nw-2113100120.jpg"
                     alt="imagen de departamento" />
                 <p className={styles.paragraph}> {department.name}</p>

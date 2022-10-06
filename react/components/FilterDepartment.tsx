@@ -29,8 +29,8 @@ const filterDepartment = ({ departments }: Props) => {
       // <option value={department.slug} key={department.id}>
       //   {department.name}
       // </option>
-      <a className={styles.image} href={`/${department.slug}`}>
-        <img src="https://previews.123rf.com/images/kchung/kchung1506/kchung150600324/40716863-industrial-palabra-departamento-edificio-brazo-rob%C3%B3tico-en-el-fondo-blanco.jpg"
+      <a className={styles.ref} href={`/${department.slug}`}>
+        <img className={styles.image} src="https://previews.123rf.com/images/kchung/kchung1506/kchung150600324/40716863-industrial-palabra-departamento-edificio-brazo-rob%C3%B3tico-en-el-fondo-blanco.jpg"
           alt="imagen de departamento" />
         <p className={styles.paragraph}> {department.name}</p>
       </a>
