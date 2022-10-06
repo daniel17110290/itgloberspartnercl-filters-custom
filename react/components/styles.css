@@ -1,0 +1,22 @@
+.container_department{
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 82%;
+    margin: 0 auto;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.paragraph{
+  display: flex;
+    justify-content: center;
+    color: red;
+    text-decoration: none;
+}
+.image{
+  width: 100px;
+  height: 80px;
+}
