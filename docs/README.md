@@ -8,7 +8,7 @@
 Este repositorio contiene el codigo necesario para crear un componente personalizado el cual permite filtrar por departamentos de tienda, posteriormente en cada departamento, filtrara por categorias, usando cards con imagenes donde se podra observar cada seleccion. 
 
 este componente fue creado para una tienda diseñada en vtex io.
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](1)
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](https://github.com/daniel17110290)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
