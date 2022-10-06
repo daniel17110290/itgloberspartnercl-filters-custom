@@ -1,6 +1,8 @@
 📢 Use this project, [contribute](https://github.com/{OrganizationName}/{AppName}) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
 # filters custom
+
+## imagenes de componente filtros de departamento y filtros de categorias respectivamente.
 ![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/filter-departments.PNG)
 ![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/filters-categories.PNG)
 
@@ -10,15 +12,16 @@
 Este repositorio contiene el codigo necesario para crear un componente personalizado el cual permite filtrar por departamentos de tienda, posteriormente en cada departamento, filtrara por categorias, usando cards con imagenes donde se podra observar cada seleccion. 
 
 este componente fue creado para una tienda diseñada en vtex io.
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](https://github.com/daniel17110290)
+
+## :wrench: Configuracion 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](https://github.com/daniel17110290)
 Under the app's name, you should explain the topic, giving a **brief description** of its **functionality** in a store when installed.
 
 Next, **add media** (either an image of a GIF) with the rendered components, so that users can better understand how the app works in practice. 
 
-![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/Reloj-Digital-Para-Hombre.png)
+
 
 ## Configuration 
 
