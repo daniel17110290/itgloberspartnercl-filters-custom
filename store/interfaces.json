@@ -3,5 +3,10 @@
     "component": "FilterCards",
     "composition": "children",
     "render": "client"
+  },
+  "filters-departmen.categories": {
+    "component": "CardCategories",
+    "composition": "children",
+    "render": "client"
   }
 }
