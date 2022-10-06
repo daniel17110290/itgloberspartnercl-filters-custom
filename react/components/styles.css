@@ -5,7 +5,7 @@
     justify-content: center;
     width: 82%;
     margin: 0 auto;
-    gap: 0.5rem;
+    gap: 4rem;
     flex-wrap: wrap;
     padding-bottom: 1rem;
     padding-top: 1rem;
@@ -19,4 +19,8 @@
 .image{
   width: 100px;
   height: 80px;
+}
+.ref{
+  text-decoration: none;
+  box-shadow: 3px 4px 5px red;
 }
