@@ -1,6 +1,8 @@
 📢 Use this project, [contribute](https://github.com/{OrganizationName}/{AppName}) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
 # filters custom
+![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/filter-departments.PNG)
+![Media Placeholder](https://github.com/daniel17110290/Diesel_store/blob/main/assets/images/filters-categories.PNG)
 
 
 ## Informacion general
