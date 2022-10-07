@@ -15,7 +15,7 @@ const CardCategories = () => {
     if (data) {
       setFinalData([])
       const rutaMatch = data.categories.filter((category: any) => category.slug === ruta[1])
-      console.log("esta es mi ruta match", rutaMatch)
+      console.log("this is the route", rutaMatch)
       setFinalData(rutaMatch)
     }
   }, [data])

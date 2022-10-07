@@ -13,14 +13,14 @@ type Category = {
 }
 
 const filterDepartment = ({ departments }: Props) => {
-  console.log("mi grupo de departamentos es:", departments);
+  console.log("departments group:", departments);
 
   const departmentOptions: any = departments.map((department: Category) => {
     return (
 
       <a className={styles.ref} href={`/${department.slug}`}>
         <img className={styles.image} src="https://previews.123rf.com/images/kchung/kchung1506/kchung150600324/40716863-industrial-palabra-departamento-edificio-brazo-rob%C3%B3tico-en-el-fondo-blanco.jpg"
-          alt="imagen de departamento" />
+          alt="department image" />
         <p className={styles.paragraph}> {department.name}</p>
       </a>
 
